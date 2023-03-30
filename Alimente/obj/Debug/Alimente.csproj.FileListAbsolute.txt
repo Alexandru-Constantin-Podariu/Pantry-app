@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Alimente\bin\Debug\Alimente.exe.config
+C:\Users\DELL\Desktop\Alimente\bin\Debug\Alimente.exe
+C:\Users\DELL\Desktop\Alimente\bin\Debug\Alimente.pdb
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.Form1.resources
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.Properties.Resources.resources
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.exe
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.pdb
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.Form2.resources
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.Meniu.resources
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.Adaugare.resources
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.Stergere.resources
+C:\Users\DELL\Desktop\Alimente\obj\Debug\Alimente.Modificare.resources
